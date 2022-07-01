@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1602513640 source:c:\users\selim\documents\ofdm_bpsk\ofdm.cpp
+	<dos.h>
+	<conio.h>
+	<iostream>
+	<stdio.h>
+	<complex>
+	<stdlib.h>
+	<math.h>
+	"RND.H"
+	<fstream>
+
+1602501864 c:\users\selim\documents\ofdm_bpsk\rnd.h
+
